@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(3, 3, 83);
+}
+.carousel-inner {
+    height: 400px;
+  }
+  .carousel-inner img{
+    background: cover;
+    max-height: fit-content;
+  }
+  .carousel-caption{
+    top: 50%;
+transform: translateY(-50%);
+  }
